@@ -1,3 +1,5 @@
+Deployment: https://amohnice.github.io/amohnice-PLP_PortfolioChallenge/
+
 ![Landing page/HOME](assets/images/LandingPage.jpg)
 ![About section](assets/images/AboutSection.jpg)
 ![Skills section](assets/images/SkillsSection.jpg)
